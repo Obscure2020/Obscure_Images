@@ -5,6 +5,7 @@ I created this repo in November of 2023, shortly after recieving word that Disco
 This repo exists for no other purpose than to contain files which I wish to make publicly accessible online, with stable links to their raw forms.
 
 ### Opus Magnum GIFs
+- [Corrosive Agent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Corrosive_Agent.gif)
 - [Flare Manufacturing](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Flare_Manufacturing.gif)
 - [Nine Plus Ten](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Nine_Plus_Ten.gif)
 - [Pizza](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Pizza.gif)
