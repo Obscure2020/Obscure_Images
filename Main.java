@@ -29,6 +29,11 @@ class Main{
                 pw.println(')');
             }
         }
+        pw.println();
+        pw.println("Leaving this here for my own future reference:");
+        pw.println("```");
+        pw.println("git add -A; git status; cmd.exe /C pause; git commit; git push");
+        pw.println("```");
         pw.close();
     }
 }
