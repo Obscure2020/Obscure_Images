@@ -22,5 +22,5 @@ This repo exists for no other purpose than to contain files which I wish to make
 
 Leaving this here for my own future reference:
 ```
-git add -A; git status; cmd.exe /C pause; git commit; git push
+cmd.exe /C "Regen Readme.bat"; git add -A; git status; cmd.exe /C pause; git commit; git push
 ```
