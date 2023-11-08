@@ -10,6 +10,7 @@ This repo exists for no other purpose than to contain files which I wish to make
 - [Corrosive Agent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Corrosive_Agent.gif)
 - [Flare Manufacturing](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Flare_Manufacturing.gif)
 - [Fuse Cord](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Fuse_Cord.gif)
+- [High-Grade Reconstructed Solvent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/High-Grade_Reconstructed_Solvent.gif)
 - [Homocyclical Catalyst](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Homocyclical_Catalyst.gif)
 - [Invariolation](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Invariolation.gif)
 - [Nine Plus Ten](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Nine_Plus_Ten.gif)
