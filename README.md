@@ -21,6 +21,7 @@ This repo exists for no other purpose than to contain files which I wish to make
 - [The Elements](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/The_Elements.gif)
 - [Trismegistos Philosophers Stone](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Trismegistos_Philosophers_Stone.gif)
 - [Water Purification](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Water_Purification.gif)
+- [Waterproof Wiring](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Waterproof_Wiring.gif)
 
 Leaving this here for my own future reference:
 ```
