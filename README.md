@@ -17,6 +17,7 @@ This repo exists for no other purpose than to contain files which I wish to make
 - [Noble Ring](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Noble_Ring.gif)
 - [Pizza](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Pizza.gif)
 - [Quintessenz Tutorial](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Quintessenz_Tutorial.gif)
+- [Stabilized Beaufor](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Stabilized_Beaufor.gif)
 - [The Elements](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/The_Elements.gif)
 - [Trismegistos Philosophers Stone](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Trismegistos_Philosophers_Stone.gif)
 - [Water Purification](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Water_Purification.gif)
