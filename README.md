@@ -20,6 +20,7 @@ This repo exists for no other purpose than to contain files which I wish to make
 - [Pizza](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Pizza.gif)
 - [Quintessenz Tutorial](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Quintessenz_Tutorial.gif)
 - [Rat Poison To Vivifying Drink](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Rat_Poison_To_Vivifying_Drink.gif)
+- [Silver Ring](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Silver_Ring.gif)
 - [Stabilized Beaufor](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Stabilized_Beaufor.gif)
 - [The Elements](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/The_Elements.gif)
 - [Trismegistos Philosophers Stone](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Trismegistos_Philosophers_Stone.gif)
