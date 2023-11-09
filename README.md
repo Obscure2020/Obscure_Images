@@ -8,6 +8,7 @@ This repo exists for no other purpose than to contain files which I wish to make
 - [Bomb-Filling](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Bomb-Filling.gif)
 - [Bone Solvent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Bone_Solvent.gif)
 - [Corrosive Agent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Corrosive_Agent.gif)
+- [Elemental Polimer](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Elemental_Polimer.gif)
 - [Flare Manufacturing](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Flare_Manufacturing.gif)
 - [Fuse Cord](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Fuse_Cord.gif)
 - [High-Grade Reconstructed Solvent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/High-Grade_Reconstructed_Solvent.gif)
