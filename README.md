@@ -5,6 +5,7 @@ I created this repo in November of 2023, shortly after recieving word that Disco
 This repo exists for no other purpose than to contain files which I wish to make publicly accessible online, with stable links to their raw forms.
 
 ### Opus Magnum GIFs
+- [2 Chainz](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/2_Chainz.gif)
 - [Bomb-Filling](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Bomb-Filling.gif)
 - [Bone Solvent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Bone_Solvent.gif)
 - [CO2](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/CO2.gif)
@@ -18,15 +19,18 @@ This repo exists for no other purpose than to contain files which I wish to make
 - [Invariolation](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Invariolation.gif)
 - [Nine Plus Ten](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Nine_Plus_Ten.gif)
 - [Noble Ring](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Noble_Ring.gif)
+- [Pisces](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Pisces.gif)
 - [Pizza](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Pizza.gif)
 - [Quintessenz Tutorial](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Quintessenz_Tutorial.gif)
 - [Rat Poison To Vivifying Drink](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Rat_Poison_To_Vivifying_Drink.gif)
 - [Rolling Copy](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Rolling_Copy.gif)
 - [Silver Ring](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Silver_Ring.gif)
 - [Stabilized Beaufor](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Stabilized_Beaufor.gif)
+- [Supertoxic Substance](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Supertoxic_Substance.gif)
 - [Synthesis From Airship Fuel](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Synthesis_From_Airship_Fuel.gif)
 - [The Elements](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/The_Elements.gif)
 - [Trismegistos Philosophers Stone](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Trismegistos_Philosophers_Stone.gif)
+- [Water Fuel](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Water_Fuel.gif)
 - [Water Purification](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Water_Purification.gif)
 - [Waterproof Wiring](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Waterproof_Wiring.gif)
 
