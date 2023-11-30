@@ -11,6 +11,7 @@ This repo exists for no other purpose than to contain files which I wish to make
 - [Corrosive Agent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Corrosive_Agent.gif)
 - [Elemental Life Study](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Elemental_Life_Study.gif)
 - [Elemental Polimer](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Elemental_Polimer.gif)
+- [Exponential](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Exponential.gif)
 - [Flare Manufacturing](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Flare_Manufacturing.gif)
 - [Fuse Cord](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Fuse_Cord.gif)
 - [High-Grade Reconstructed Solvent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/High-Grade_Reconstructed_Solvent.gif)
