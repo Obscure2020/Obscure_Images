@@ -5,6 +5,7 @@ I created this repo in November of 2023, shortly after recieving word that Disco
 This repo exists for no other purpose than to contain files which I wish to make publicly accessible online, with stable links to their raw forms.
 
 ### Opus Magnum GIFs
+- [628965](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/628965.gif)
 - [Bomb-Filling](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Bomb-Filling.gif)
 - [Bone Solvent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Bone_Solvent.gif)
 - [CO2](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/CO2.gif)
