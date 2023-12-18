@@ -10,6 +10,7 @@ This repo exists for no other purpose than to contain files which I wish to make
 - [Bone Solvent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Bone_Solvent.gif)
 - [CO2](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/CO2.gif)
 - [Corrosive Agent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Corrosive_Agent.gif)
+- [Earth Fire Water and Air](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Earth_Fire_Water_and_Air.gif)
 - [Elemental Life Study](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Elemental_Life_Study.gif)
 - [Elemental Polimer](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Elemental_Polimer.gif)
 - [Exponential](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Exponential.gif)
