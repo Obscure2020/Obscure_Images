@@ -28,6 +28,7 @@ This repo exists for no other purpose than to contain files which I wish to make
 - [Rolling Copy](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Rolling_Copy.gif)
 - [Silver Ring](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Silver_Ring.gif)
 - [Stabilized Beaufor](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Stabilized_Beaufor.gif)
+- [Steam Deck Disassembly](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Steam_Deck_Disassembly.gif)
 - [Supertoxic Substance](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Supertoxic_Substance.gif)
 - [Synthesis From Airship Fuel](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Synthesis_From_Airship_Fuel.gif)
 - [The Elements](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/The_Elements.gif)
