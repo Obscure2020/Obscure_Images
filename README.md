@@ -41,5 +41,3 @@ Leaving this here for my own future reference:
 ```
 cmd.exe /C "Regen Readme.bat"; git add -A; git status; cmd.exe /C pause; git commit; git push
 ```
-
-And here's a quick coloring test: $\small\color{red}\textsf{Mouse Trouse}$, or $\small\color{yellow}\textsf{Mouse Crap}$, or $\small\color{green}\textsf{Mouse Man}$, or $\small\color{orange}\textsf{Man Man}$...
