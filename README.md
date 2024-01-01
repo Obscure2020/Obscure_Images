@@ -41,3 +41,5 @@ Leaving this here for my own future reference:
 ```
 cmd.exe /C "Regen Readme.bat"; git add -A; git status; cmd.exe /C pause; git commit; git push
 ```
+
+And here's a quick coloring test: <span style="color:#f00">Mouse Trouse</span>, <span style="color:#ff0">Mouse Crap</span>, Mouse Man, *Man* Man...
