@@ -4,7 +4,7 @@ import java.nio.charset.StandardCharsets;
 
 class Main{
     public static void main(String[] args) throws Exception{
-        PrintWriter pw = new PrintWriter(new FileOutputStream("README.md"), true, StandardCharsets.UTF_8);
+        PrintWriter pw = new PrintWriter(new FileOutputStream("README.md", false), true, StandardCharsets.UTF_8);
         pw.println("# Obscure Images");
         pw.println();
         pw.println("I created this repo in November of 2023, shortly after recieving word that Discord would begin limiting the lifetime of its CDN links to 24 hours.");
