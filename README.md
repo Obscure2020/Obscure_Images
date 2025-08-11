@@ -16,6 +16,7 @@ This repo exists for no other purpose than to contain files which I wish to make
 - [Exponential](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Exponential.gif)
 - [Flare Manufacturing](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Flare_Manufacturing.gif)
 - [Fuse Cord](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Fuse_Cord.gif)
+- [Golden Rings](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Golden_Rings.gif)
 - [High-Grade Reconstructed Solvent](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/High-Grade_Reconstructed_Solvent.gif)
 - [Homocyclical Catalyst](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Homocyclical_Catalyst.gif)
 - [Invariolation](https://cdn.jsdelivr.net/gh/Obscure2020/Obscure_Images/Opus_Magnum_GIFs/Invariolation.gif)
